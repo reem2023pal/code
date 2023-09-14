@@ -1,5 +1,5 @@
 # code
-This code for stage one code
+This code for stage one.
 
 from WeServo import *
 import lcd
